@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hello There, I'm Donnavan Souza
 
-<!--
-**donnavansouza/donnavansouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate CS student at Universidade Federal do Ceará, driven by a curiosity for technology and a love for knowledge.
+
+[![donnavasouza's GitHub stats](https://github-readme-stats.vercel.app/api?username=donnavansouza)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
