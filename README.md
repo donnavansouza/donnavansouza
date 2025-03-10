@@ -14,7 +14,7 @@
 - Developer
 - Algorithms and Data Structures background
 - Always exploring new technologies and areas
-- Currently diving at Data Science and automation with Python
+- Currently diving at IoT and Embedded Softwares
 - Playing lots of stuff at spare time
 
 <br>
