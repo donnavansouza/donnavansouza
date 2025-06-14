@@ -12,9 +12,10 @@
 <br>
 
 - Developer
-- Algorithms and Data Structures background
+- Full-Stack
+- Algorithms and Data Structures knowledge
 - Always exploring new technologies and areas
-- Currently diving at IoT and Embedded Softwares
+- Currently diving at Machine Learning, IA and Automation
 - Playing lots of stuff at spare time
 
 <br>
