@@ -2,7 +2,7 @@
 
 # DONNAVAN SOUZA
 
-*Trying to make computers a little less mysterious — and AI a little more fair.*
+*Trying to make language models a little less mysterious — and AI a little more fair.*
 
 Fortaleza, Brazil · CS @ UFC
 
@@ -15,11 +15,11 @@ Fortaleza, Brazil · CS @ UFC
 
 ### CURRENTLY
 
-Falling down the responsible-AI rabbit hole. Lately that means LLM fairness, experiments, Python, and probably too many browser tabs.
+Falling down the responsible-AI and mechanistic interpretability rabbit hole. Lately that means LLM fairness, NLP, Probability, and probably too many browser tabs.
 
 ### OUTSIDE THE TERMINAL
 
-Games, electric guitar, Star Wars, rainy neon sci-fi, Middle-earth, and Corinthians.
+Games, films, electric guitar, Star Wars, sci-fi, Tottenham Hotspur, and (mainly) Corinthians.
 
 ### A LONG TIME AGO, IN A REPOSITORY FAR, FAR AWAY...
 

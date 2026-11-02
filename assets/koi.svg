@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60" width="160" height="60" role="img" aria-label="A small koi keeping an eye on the commits">
+  <style>
+    .koi {
+      transform-box: fill-box; transform-origin: center;
+      animation: bob 5s ease-in-out infinite;
+    }
+    .tail {
+      transform-box: fill-box; transform-origin: 0% 50%;
+      animation: wiggle 0.5s ease-in-out infinite alternate;
+    }
+    @keyframes bob {
+      0%   { transform: translate(0px, 0px); }
+      25%  { transform: translate(6px, -3px); }
+      50%  { transform: translate(10px, 0px); }
+      75%  { transform: translate(6px, 3px); }
+      100% { transform: translate(0px, 0px); }
+    }
+    @keyframes wiggle {
+      from { transform: rotate(-12deg); }
+      to   { transform: rotate(12deg); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .koi, .tail { animation: none; }
+    }
+  </style>
+
+  <g class="koi">
+    <g class="tail">
+      <path d="M22,30 L6,16 L11,30 L6,44 Z" fill="#e0531f"/>
+    </g>
+    <ellipse cx="58" cy="30" rx="38" ry="13" fill="#ff8a3d"/>
+    <ellipse cx="58" cy="36" rx="34" ry="6" fill="#ffd9b3" opacity="0.85"/>
+    <ellipse cx="48" cy="26" rx="5" ry="3.5" fill="#fff4e6" opacity="0.9"/>
+    <ellipse cx="68" cy="32" rx="4" ry="2.6" fill="#fff4e6" opacity="0.9"/>
+    <ellipse cx="82" cy="28" rx="3" ry="2" fill="#fff4e6" opacity="0.85"/>
+    <circle cx="88" cy="27" r="2.4" fill="#1a1a1a"/>
+    <circle cx="88.7" cy="26.4" r="0.7" fill="#ffffff"/>
+  </g>
+</svg>
