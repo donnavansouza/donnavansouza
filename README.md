@@ -1,14 +1,14 @@
 <div align="center">
 
+<img src="assets/neon-city.svg" width="100%" alt="A rainy neon city skyline at night" />
+
 # DONNAVAN SOUZA
 
-### COMPUTER SCIENCE · AI RESEARCH · SOFTWARE
+### PLAYER 01 · BUILDER OF THINGS · COLLECTOR OF SIDE QUESTS
 
-*Exploring intelligence, questioning algorithms, building things that matter.*
+**CS student @ UFC** · Fortaleza, Brazil
 
-[![GitHub](https://img.shields.io/badge/GitHub-donnavansouza-161b22?style=flat-square&logo=github)](https://github.com/donnavansouza)
-[![UFC](https://img.shields.io/badge/University-UFC-161b22?style=flat-square)](https://www.ufc.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/donnavan-souza-1833a31a7/)
+[GitHub](https://github.com/donnavansouza) · [UFC](https://www.ufc.br/)
 
 </div>
 
@@ -16,71 +16,49 @@
 
 <div align="center">
 
-### YOUR PIXEL COMPANION
-
-<img src="koi/koi.gif" width="256" alt="A pixel-art koi that grows with my public GitHub activity" />
-
-<sub>One contribution at a time. Re-drawn every night.</sub>
+<img src="assets/space-crawl.svg" width="100%" alt="An animated space-opera opening crawl introducing the developer's quest" />
 
 </div>
 
-## 01 / PLAYER PROFILE
+## 🎮 SELECT YOUR QUEST
 
-I'm a Computer Science undergraduate at the **Federal University of Ceará (UFC)**, interested in Artificial Intelligence, Machine Learning, and the science behind intelligent systems.
+**CURRENT MISSION — Responsible AI**
 
-My work sits at the intersection of research and engineering: connecting theoretical foundations with practical systems, while keeping their real-world impact in view.
+Exploring fairness in AI and large language models with **Kunumi × UFC**. Interested in how we make intelligent systems more useful, more accountable, and less unfair.
 
-- **Current focus:** Responsible AI, fairness, and Large Language Models
-- **Research:** Kunumi × UFC
-- **Based in:** Fortaleza, Brazil
+**SIDE QUESTS COMPLETED**
 
-## 02 / ACTIVE QUEST
+- **IoT + machine learning:** Worked on a diabetic-foot-care project involving sensor data and ML models at GREat / PIBIC.
+- **Programming education:** Helped build features for UFCode, a gamified programming-logic platform, using React and Node.js.
 
-**Responsible AI Researcher — Kunumi × UFC**  
-*September 2025 — Present*
+## 🧰 INVENTORY
 
-- Investigating fairness in Responsible AI, evaluating metrics and methods to identify and mitigate social biases in LLMs.
-- Contributing to critical analysis and scientific reproducibility of experiments.
-- Collaborating on ethical and socially responsible AI initiatives.
+<code>Python</code> <code>PyTorch</code> <code>TensorFlow</code> <code>Scikit-learn</code> <code>C++</code> <code>JavaScript</code> <code>React</code> <code>Node.js</code>
 
-## 03 / COMPLETED QUESTS
-
-**IoT for Diabetic Foot Care — GREat / PIBIC**  
-*September 2024 — August 2025*
-
-- Developed an IoT solution integrating ML models to predict and classify diabetic foot ulcers.
-- Worked with SVM, CNN, Random Forest, and MLP models.
-- Built data collection and processing pipelines for pressure and temperature sensor measurements.
-
-**UFCode — GREat**  
-*February — September 2024*
-
-- Contributed to a gamified platform for teaching programming logic.
-- Developed full-stack features with React and Node.js, integrating REST APIs.
-
-## 04 / INVENTORY
-
-| Category | Tools & technologies |
-|:--|:--|
-| AI & Machine Learning | PyTorch · TensorFlow · Scikit-learn |
-| Data Science | NumPy · Pandas · Matplotlib |
-| Programming | Python · C++ · Java · JavaScript |
-| Engineering | Git · WSL · React · Node.js · REST APIs · Data pipelines |
-
-## 05 / CURRENT INTERESTS
-
-Responsible AI · LLM Fairness · Applied Machine Learning · Scientific Reproducibility · AI for Social Impact
-
-## 06 / OUTSIDE THE TERMINAL
-
-Curious about science, games, music, and the ideas that connect technology to society. Always learning, experimenting, and looking for the next interesting problem.
-
----
+## 🐟 COMPANION
 
 <div align="center">
 
-**MAY YOUR MODELS CONVERGE AND YOUR BUILDS NEVER FAIL.**
+<img src="koi/koi.gif" width="240" alt="My animated pixel-art koi companion" />
 
-<sub>Portuguese · Native &nbsp;|&nbsp; English · Fluent &nbsp;|&nbsp; French · Basic</sub>
+<sub>A tiny koi, redrawn from my public GitHub activity. Check back for its next swim.</sub>
 
 </div>
+
+## 🎸 PLAYER LORE
+
+When I'm not debugging something, I'm probably playing games, learning electric guitar, or revisiting a galaxy far, far away. Also partial to neon-noir futures, Middle-earth, and Corinthians.
+
+<div align="center">
+
+<img src="assets/pixel-guitar.svg" width="112" alt="A pixel-art electric guitar" />
+
+<sub>Soundtrack: electric guitar · Visual mood: space opera meets rainy neon streets</sub>
+
+**MAY THE FORCE BE WITH YOUR PULL REQUESTS.**
+
+</div>
+
+---
+
+<sub>Visual experiments inspired by [SWcrawl](https://github.com/PurpaFur/SWcrawl), [Scanlines](https://github.com/collidingScopes/scanlines), and [RyMe.md](https://ryme.md/). The profile artwork here is original SVG.</sub>
