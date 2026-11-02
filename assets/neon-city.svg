@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-labelledby="title desc">
+<title id="title">Rainy neon city at night</title><desc id="desc">An original cyberpunk-inspired skyline with glowing signs, rain, and distant orange light.</desc>
+<defs>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#090d20"/><stop offset=".58" stop-color="#21152d"/><stop offset="1" stop-color="#6b2940"/></linearGradient>
+  <linearGradient id="haze" x2="1"><stop stop-color="#ff6b35" stop-opacity="0"/><stop offset=".5" stop-color="#ff6b35" stop-opacity=".55"/><stop offset="1" stop-color="#ff6b35" stop-opacity="0"/></linearGradient>
+  <filter id="neon"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1100" height="300" fill="url(#sky)"/>
+<rect y="165" width="1100" height="80" fill="url(#haze)"/>
+<circle cx="820" cy="122" r="52" fill="#ff9a56" opacity=".17"/>
+<g fill="#090d1b" stroke="#26334d" stroke-width="2">
+ <path d="M0 300V118h90V80h42v220M120 300V145h88v-62h34v217M225 300V110h92v-45h38v235M350 300V150h78v-70h42v220M465 300V100h105v-35h38v235M590 300V140h85V92h36v208M700 300V120h90V70h48v230M830 300V155h82v-58h38v203M940 300V120h100v-42h38v222"/>
+</g>
+<g fill="#ffb35c" opacity=".75">
+ <path d="M26 145h8v12h-8zm24 0h8v12h-8zm24 0h8v12h-8zM150 170h8v12h-8zm25 0h8v12h-8zM258 130h8v12h-8zm24 0h8v12h-8zM385 175h8v12h-8zm25 0h8v12h-8zM500 125h8v12h-8zm26 0h8v12h-8zM620 165h8v12h-8zm25 0h8v12h-8zM740 150h8v12h-8zm26 0h8v12h-8zM860 178h8v12h-8zm25 0h8v12h-8zM980 150h8v12h-8zm26 0h8v12h-8z"/>
+</g>
+<g filter="url(#neon)" font-family="monospace" font-weight="bold" text-anchor="middle">
+ <text x="190" y="225" fill="#ff5bba" font-size="21" letter-spacing="4">NIGHT SHIFT</text>
+ <text x="790" y="220" fill="#67eaff" font-size="22" letter-spacing="5">FORTALEZA</text>
+ <text x="510" y="275" fill="#ffb05e" font-size="13" letter-spacing="7">AFTER DARK // KEEP BUILDING</text>
+</g>
+<g stroke="#8beaff" stroke-width="1.3" opacity=".42">
+ <path d="M75 0l-24 90M150 0l-20 72M280 0l-27 100M390 0l-22 85M540 0l-20 78M650 0l-26 98M750 0l-20 76M900 0l-25 96M1020 0l-24 90">
+  <animate attributeName="opacity" values=".12;.65;.12" dur="1.4s" repeatCount="indefinite"/>
+ </path>
+</g>
+<g stroke="#c2f6ff" stroke-width="1" opacity=".35">
+ <path d="M20 35l-9 35M220 18l-9 35M330 45l-9 35M470 20l-9 35M600 55l-9 35M720 24l-9 35M840 50l-9 35M980 15l-9 35">
+  <animateTransform attributeName="transform" type="translate" from="0 -60" to="0 360" dur="2.8s" repeatCount="indefinite"/>
+ </path>
+</g>
+<rect x="1" y="1" width="1098" height="298" fill="none" stroke="#34466d" stroke-width="2"/>
+</svg>
