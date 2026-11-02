@@ -1,113 +1,86 @@
+<div align="center">
 
-<h1 align="center" style="font-family: Georgia, serif;"><b>Hello There</b></h1>
-<!--  -->
-<br>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Donnavan+Souza;Computer+Science+Student;Love+to+learn+new+stuff...<3"></a>
-</p>
+# DONNAVAN SOUZA
 
-## <picture><img src = "https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width = 50px height = 40px></picture> **About me**
+### COMPUTER SCIENCE · AI RESEARCH · SOFTWARE
 
+*Exploring intelligence, questioning algorithms, building things that matter.*
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-donnavansouza-161b22?style=flat-square&logo=github)](https://github.com/donnavansouza)
+[![UFC](https://img.shields.io/badge/University-UFC-161b22?style=flat-square)](https://www.ufc.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/donnavan-souza-1833a31a7/)
 
-- Developer
-- Full-Stack
-- Algorithms and Data Structures knowledge
-- Always exploring new technologies and areas
-- Currently diving at Machine Learning, IA and Automation
-- Playing lots of stuff at spare time
+</div>
 
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-  
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-
-<br>   
-    
-- **Web Development**:
-  
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-<br>
-
-- **Softwares and Tools**:
-  
-    ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-</p>
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+---
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donnavansouza&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350" height="200"  alt="0xabdulkhalid"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=donnavansouza&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350" height="200" />
+### YOUR PIXEL COMPANION
 
-</a>
+<img src="koi/koi.gif" width="256" alt="A pixel-art koi that grows with my public GitHub activity" />
+
+<sub>One contribution at a time. Re-drawn every night.</sub>
+
 </div>
 
-<br>
+## 01 / PLAYER PROFILE
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
-<br>
-<div align='left'>
+I'm a Computer Science undergraduate at the **Federal University of Ceará (UFC)**, interested in Artificial Intelligence, Machine Learning, and the science behind intelligent systems.
 
-<ul>
+My work sits at the intersection of research and engineering: connecting theoretical foundations with practical systems, while keeping their real-world impact in view.
 
-<a href="https://www.linkedin.com/in/donnavan-souza-1833a31a7/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  donnavan souza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+- **Current focus:** Responsible AI, fairness, and Large Language Models
+- **Research:** Kunumi × UFC
+- **Based in:** Fortaleza, Brazil
 
-<br>
-<br>
+## 02 / ACTIVE QUEST
 
-<a href="mailto:donnavansouza922@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Donnavan Souza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-	
-</ul>
-</div>
+**Responsible AI Researcher — Kunumi × UFC**  
+*September 2025 — Present*
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- Investigating fairness in Responsible AI, evaluating metrics and methods to identify and mitigate social biases in LLMs.
+- Contributing to critical analysis and scientific reproducibility of experiments.
+- Collaborating on ethical and socially responsible AI initiatives.
+
+## 03 / COMPLETED QUESTS
+
+**IoT for Diabetic Foot Care — GREat / PIBIC**  
+*September 2024 — August 2025*
+
+- Developed an IoT solution integrating ML models to predict and classify diabetic foot ulcers.
+- Worked with SVM, CNN, Random Forest, and MLP models.
+- Built data collection and processing pipelines for pressure and temperature sensor measurements.
+
+**UFCode — GREat**  
+*February — September 2024*
+
+- Contributed to a gamified platform for teaching programming logic.
+- Developed full-stack features with React and Node.js, integrating REST APIs.
+
+## 04 / INVENTORY
+
+| Category | Tools & technologies |
+|:--|:--|
+| AI & Machine Learning | PyTorch · TensorFlow · Scikit-learn |
+| Data Science | NumPy · Pandas · Matplotlib |
+| Programming | Python · C++ · Java · JavaScript |
+| Engineering | Git · WSL · React · Node.js · REST APIs · Data pipelines |
+
+## 05 / CURRENT INTERESTS
+
+Responsible AI · LLM Fairness · Applied Machine Learning · Scientific Reproducibility · AI for Social Impact
+
+## 06 / OUTSIDE THE TERMINAL
+
+Curious about science, games, music, and the ideas that connect technology to society. Always learning, experimenting, and looking for the next interesting problem.
+
+---
+
 <div align="center">
-    <br>
-    <p align="center"><b>Visitors Count</b></p>
-    <p align="center">
-        <img align="center" src="https://profile-counter.glitch.me/{donnavansouza}/count.svg" />
-    </p>
-    <br>
-<div align='center'>
 
-## May the force be with you, always
+**MAY YOUR MODELS CONVERGE AND YOUR BUILDS NEVER FAIL.**
+
+<sub>Portuguese · Native &nbsp;|&nbsp; English · Fluent &nbsp;|&nbsp; French · Basic</sub>
 
 </div>
-</div>
-<img src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' width="100%">
-
-<br>
-
