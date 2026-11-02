@@ -1,64 +1,49 @@
 <div align="center">
 
-<img src="assets/neon-city.svg" width="100%" alt="A rainy neon city skyline at night" />
+<img src="https://github.com/user-attachments/assets/e3b5e1fe-0b4c-47d6-b21f-1fe4d2023556" width="100%" alt="Blade Runner 2049 animated pixel-art scene" />
 
 # DONNAVAN SOUZA
 
-### PLAYER 01 · BUILDER OF THINGS · COLLECTOR OF SIDE QUESTS
+**Computer Science student @ UFC** · Fortaleza, Brazil
 
-**CS student @ UFC** · Fortaleza, Brazil
-
-[GitHub](https://github.com/donnavansouza) · [UFC](https://www.ufc.br/)
+[GitHub](https://github.com/donnavansouza) · [University](https://www.ufc.br/)
 
 </div>
 
 ---
 
-<div align="center">
+I'm interested in **AI, machine learning, and software engineering** — especially responsible AI and fairness in large language models. Currently working with **Kunumi × UFC**.
 
-<img src="assets/space-crawl.svg" width="100%" alt="An animated space-opera opening crawl introducing the developer's quest" />
+### Things I’ve worked on
 
-</div>
+- **Responsible AI:** fairness evaluation and bias in LLMs.
+- **IoT + ML:** sensor data and machine learning for diabetic-foot-care research at GREat / PIBIC.
+- **UFCode:** full-stack development for a gamified programming-education platform.
 
-## 🎮 SELECT YOUR QUEST
+### Toolbox
 
-**CURRENT MISSION — Responsible AI**
-
-Exploring fairness in AI and large language models with **Kunumi × UFC**. Interested in how we make intelligent systems more useful, more accountable, and less unfair.
-
-**SIDE QUESTS COMPLETED**
-
-- **IoT + machine learning:** Worked on a diabetic-foot-care project involving sensor data and ML models at GREat / PIBIC.
-- **Programming education:** Helped build features for UFCode, a gamified programming-logic platform, using React and Node.js.
-
-## 🧰 INVENTORY
-
-<code>Python</code> <code>PyTorch</code> <code>TensorFlow</code> <code>Scikit-learn</code> <code>C++</code> <code>JavaScript</code> <code>React</code> <code>Node.js</code>
-
-## 🐟 COMPANION
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `C++` `JavaScript` `React` `Node.js`
 
 <div align="center">
 
-<img src="koi/koi.gif" width="240" alt="My animated pixel-art koi companion" />
+### My little GitHub companion
 
-<sub>A tiny koi, redrawn from my public GitHub activity. Check back for its next swim.</sub>
+<img src="koi/koi.gif" width="220" alt="Pixel-art koi generated from my GitHub activity" />
 
-</div>
+### A long time ago, in a repository far, far away...
 
-## 🎸 PLAYER LORE
+<a href="https://sw-scrolling-css.netlify.app/">
+  <img src="https://raw.githubusercontent.com/Joe-Bentley/SW-Scrolling-Animations/main/sw-logo.png" width="300" alt="Star Wars opening crawl — click to launch the animation" />
+</a>
 
-When I'm not debugging something, I'm probably playing games, learning electric guitar, or revisiting a galaxy far, far away. Also partial to neon-noir futures, Middle-earth, and Corinthians.
+<sub>Click the logo to launch the Star Wars opening crawl.</sub>
 
-<div align="center">
+### Off-screen interests
 
-<img src="assets/pixel-guitar.svg" width="112" alt="A pixel-art electric guitar" />
-
-<sub>Soundtrack: electric guitar · Visual mood: space opera meets rainy neon streets</sub>
-
-**MAY THE FORCE BE WITH YOUR PULL REQUESTS.**
+Games · Electric guitar · Star Wars · Blade Runner · The Lord of the Rings · Corinthians
 
 </div>
 
 ---
 
-<sub>Visual experiments inspired by [SWcrawl](https://github.com/PurpaFur/SWcrawl), [Scanlines](https://github.com/collidingScopes/scanlines), and [RyMe.md](https://ryme.md/). The profile artwork here is original SVG.</sub>
+<sub>Blade Runner GIF: shared by the community in <a href="https://github.com/hackwithdev/pixelartgifs">pixelartgifs</a> (artwork credited to its original creator). Star Wars crawl by <a href="https://github.com/Joe-Bentley/SW-Scrolling-Animations">Joe-Bentley</a>.</sub>
